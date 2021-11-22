@@ -1,0 +1,111 @@
+{
+  "movieList":[
+    {
+      "movieTitle": "Pushpaka vimanam",
+      "movieId": "mov1",
+      "locations": [{
+        "lat": 12.3,
+        "longitude": 12.4,
+        "city": "Hyd",
+        "state": "AP",
+        "country": "In",
+        "theaters": [{
+          "area": "sd",
+          "name": "ss",
+          "theaterId": "ss"
+        }]
+      }],
+      "metadata": {
+        "genre": [
+          "comedy",
+          "thriller"
+        ],
+        "about": "Its about school teacher sundar...",
+        "actors": [{
+          "role": "Hero",
+          "name": "Anand Devarakonda"
+        }, {
+          "role": "Heroine",
+          "name": "Geetha"
+        }],
+        "crew": [{
+          "role": "director",
+          "name": "pavan"
+        }],
+        "movieDuration": "2hrs"
+      }
+    },
+    {
+      "movieTitle": "Jalsa",
+      "movieId": "mov2",
+      "locations": [{
+        "lat": 12.3,
+        "longitude": 12.4,
+        "city": "Hyd",
+        "state": "AP",
+        "country": "In",
+        "theaters": [{
+          "area": "sd",
+          "name": "ss",
+          "theaterId": "ss"
+
+        }]
+      }],
+      "metadata": {
+        "genre": [
+          "comedy",
+          "thriller"
+        ],
+        "about": "Its about jalsa...",
+        "actors": [{
+          "role": "Hero",
+          "name": "Anand Devarakonda"
+        }, {
+          "role": "Heroine",
+          "name": "Geetha"
+        }],
+        "crew": [{
+          "role": "director",
+          "name": "pavan"
+        }],
+        "movieDuration": "2hrs"
+      }
+    },
+    {
+      "movieTitle": "Panja",
+      "movieId": "mov2",
+      "locations": [{
+        "lat": 12.3,
+        "longitude": 12.4,
+        "city": "Bvrm",
+        "state": "AP",
+        "country": "In",
+        "theaters": [{
+          "area": "sd",
+          "name": "ss",
+          "theaterId": "ss"
+
+        }]
+      }],
+      "metadata": {
+        "genre": [
+          "comedy",
+          "thriller"
+        ],
+        "about": "Its about jalsa...",
+        "actors": [{
+          "role": "Hero",
+          "name": "Anand Devarakonda"
+        }, {
+          "role": "Heroine",
+          "name": "Geetha"
+        }],
+        "crew": [{
+          "role": "director",
+          "name": "pavan"
+        }],
+        "movieDuration": "2hrs"
+      }
+    }
+  ]
+}

@@ -1,0 +1,652 @@
+{
+  "theatersList": [
+    {
+      "theaterId": "1",
+      "name": "AVG",
+      "area": "town",
+      "city": "bvrm",
+      "showTimes": [
+        {
+          "day": "01 Dec, Wed",
+          "movieId": "1",
+          "showInfo": [
+            {
+              "showStartTime": "11 AM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "2 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "6 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "02 Dec, Wed",
+          "movieId": "1",
+          "showInfo": [
+            {
+              "showStartTime": "11 AM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "2 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "6 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "03 Dec, Wed",
+          "movieId": "2",
+          "showInfo": [
+            {
+              "showStartTime": "11 AM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "2 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "6 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "seatingCapacity": 100
+    },
+    {
+      "theaterId": "2",
+      "name": "Nataraj",
+      "area": "natraj",
+      "city": "bvrm",
+      "showTimes": [
+        {
+          "day": "01 Dec, Wed",
+          "movieId": "1",
+          "showInfo": [
+            {
+              "showStartTime": "11 AM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "2 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "6 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "02 Dec, Wed",
+          "movieId": "1",
+          "showInfo": [
+            {
+              "showStartTime": "11 AM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "2 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "6 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "03 Dec, Wed",
+          "movieId": "2",
+          "showInfo": [
+            {
+              "showStartTime": "11 AM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "2 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "6 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "seatingCapacity": 100
+    },
+    {
+      "theaterId": "3",
+      "name": "INOX",
+      "area": "Hyderabad",
+      "city": "hyd",
+      "showTimes": [
+        {
+          "day": "01 Dec, Wed",
+          "movieId": "1",
+          "showInfo": [
+            {
+              "showStartTime": "11 AM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "2 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "6 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "02 Dec, Wed",
+          "movieId": "1",
+          "showInfo": [
+            {
+              "showStartTime": "11 AM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "2 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "6 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "03 Dec, Wed",
+          "movieId": "2",
+          "showInfo": [
+            {
+              "showStartTime": "11 AM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "2 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "6 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "seatingCapacity": 100
+    },
+    {
+      "theaterId": "4",
+      "name": "INOX",
+      "area": "chennai",
+      "city": "chennai",
+      "showTimes": [
+        {
+          "day": "01 Dec, Wed",
+          "movieId": "1",
+          "showInfo": [
+            {
+              "showStartTime": "11 AM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "2 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "6 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "02 Dec, Wed",
+          "movieId": "3",
+          "showInfo": [
+            {
+              "showStartTime": "11 AM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "2 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "6 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "day": "03 Dec, Wed",
+          "movieId": "3",
+          "showInfo": [
+            {
+              "showStartTime": "11 AM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "2 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            },
+            {
+              "showStartTime": "6 PM",
+              "seats": [
+                {
+                  "isAvailable": true,
+                  "seatId": "1",
+                  "seatNo": "A-1"
+                },
+                {
+                  "isAvailable": true,
+                  "seatId": "2",
+                  "seatNo": "A-2"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "seatingCapacity": 100
+    }
+  ]
+}
